@@ -1,0 +1,9 @@
+postgres:
+  username: postgres
+  password: postgres
+  host: postgres
+  connection-options: "sslmode=disable"
+# defaults to
+#  port: 5432
+# defaults to
+#  database: jaeger
